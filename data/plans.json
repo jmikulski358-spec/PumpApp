@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Push",
+    "entries": [
+      {
+        "exerciseName": "Pompki (Regular grip)",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0,
+        "restTime": 90
+      },
+      {
+        "exerciseName": "Wyciskanie na ławce",
+        "sets": 3,
+        "reps": 12,
+        "weight": 80,
+        "restTime": 100
+      }
+    ]
+  }
+]

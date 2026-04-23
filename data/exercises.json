@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pompki (Regular grip)",
+    "description": "Aby wykonać poprawną pompkę, przyjmij pozycję podporu przodem: dłonie ustaw na szerokość barków lub minimalnie szerzej, palce skieruj lekko na zewnątrz, a stopy trzymaj razem lub delikatnie rozstawione. Całe ciało powinno tworzyć prostą linię od głowy aż po pięty. Napnij mięśnie brzucha i pośladki, a głowę ustaw neutralnie, patrząc lekko przed siebie. Następnie powoli uginaj łokcie, prowadząc je pod kątem około 30–45 stopni względem tułowia, i opuszczaj ciało w dół, aż klatka piersiowa znajdzie się blisko podłogi. Plecy przez cały ruch pozostają proste, a biodra nie opadają ani nie unoszą się. Z dolnej pozycji wykonaj wydech i dynamicznie, ale kontrolowanie, odepchnij się od podłogi, prostując ramiona i unosząc całe ciało jako jedną całość, bez blokowania łokci w górze. W trakcie opuszczania wykonuj wdech, a w trakcie wypychania wydech. Ruch powinien być pełny i płynny, najlepiej wykonywany w kontrolowanym tempie, z naciskiem na poprawną technikę zamiast liczby powtórzeń.",
+    "muscles": "Chest",
+    "type": "bodyweight"
+  },
+  {
+    "name": "Uginanie przedramion ze sztangą (prostą)",
+    "description": "Aby wykonać poprawne uginanie ramion ze sztangą prostą, stań w lekkim rozkroku na szerokość bioder, ustawiając stopy stabilnie na podłożu. Chwyć sztangę nachwytem podchwytem na szerokość barków, dłonie ustaw symetrycznie, a kciuki obejmujące gryf. Ramiona opuść wzdłuż tułowia, łokcie trzymaj blisko ciała, a barki cofnięte i opuszczone. Przed rozpoczęciem ruchu napnij mięśnie brzucha i pośladki, aby ustabilizować sylwetkę. Następnie, wykonując wydech, uginaj ramiona w stawach łokciowych, unosząc sztangę po kontrolowanym torze w górę, bez bujania tułowiem i bez unoszenia łokci do przodu. Ruch powinien odbywać się wyłącznie w stawach łokciowych, a nadgarstki pozostają w neutralnej pozycji. W górnej fazie ruchu maksymalnie napnij mięśnie bicepsów, po czym wykonując wdech, powoli i kontrolowanie opuszczaj sztangę do pełnego wyprostu ramion, nie tracąc napięcia mięśniowego. Całe ćwiczenie wykonuj płynnie, w pełnym zakresie ruchu, z naciskiem na technikę i świadomą pracę mięśni, a nie na ciężar.",
+    "muscles": "Biceps",
+    "type": "weighted"
+  },
+  {
+    "name": "Deadlift",
+    "description": "Aby wykonać poprawny martwy ciąg, ustaw stopy na szerokość bioder, z palcami skierowanymi lekko na zewnątrz, a gryf sztangi umieść nad śródstopiem, blisko goleni. Pochyl tułów z zachowaniem prostych pleców, cofając biodra i uginając kolana, następnie chwyć sztangę nachwytem lub chwytem mieszanym na szerokość barków. Przed rozpoczęciem ruchu ściągnij łopatki, napnij mięśnie brzucha i pośladki oraz nabierz powietrza do brzucha, stabilizując tułów. Ruch rozpocznij jednoczesnym prostowaniem bioder i kolan, prowadząc sztangę blisko ciała po linii nóg, aż do pełnego wyprostu sylwetki. W górnej pozycji stań wyprostowany, z klatką piersiową uniesioną i biodrami wypchniętymi do przodu, unikając przeprostu w odcinku lędźwiowym. Następnie, kontrolując ciężar, rozpocznij fazę opuszczania, cofając biodra i uginając kolana, prowadząc sztangę tą samą drogą w dół, aż odłoży się na podłodze. Przez cały czas trwania ćwiczenia plecy pozostają neutralne, głowa w przedłużeniu kręgosłupa, a ruch wykonywany jest płynnie i pod pełną kontrolą, z naciskiem na technikę i stabilizację ciała.",
+    "muscles": "Back",
+    "type": "weighted"
+  },
+  {
+    "name": "Wyciskanie na ławce",
+    "description": "Aby poprawnie wykonać wyciskanie sztangi na ławce płaskiej, ustaw stabilną ławkę i połóż się na niej na plecach, opierając stopy pewnie o podłoże, a głowę, górną część pleców i pośladki utrzymując w stałym kontakcie z ławką. Złap sztangę nachwytem nieco szerzej niż szerokość barków, ustawiając nadgarstki w jednej linii z przedramionami, po czym ściągnij łopatki w dół i do tyłu, wypchnij klatkę piersiową i napnij mięśnie brzucha oraz pośladków. Zdejmij sztangę ze stojaków, stabilizując ją nad barkami, a następnie powoli opuść ją pionowo w dół w kierunku środka klatki piersiowej, kontrolując ruch i prowadząc łokcie pod kątem około 45–70 stopni względem tułowia. Gdy sztanga lekko dotknie klatki, bez odbijania, rozpocznij ruch w górę, mocno napierając stopami w podłoże i wyciskając ciężar po tej samej linii aż do niemal pełnego wyprostu ramion. Przez cały czas utrzymuj napięcie całego ciała, stabilną pozycję oraz kontrolowany oddech, wykonując wdech podczas opuszczania sztangi i wydech w fazie jej wyciskania.",
+    "muscles": "Chest",
+    "type": "weighted"
+  }
+]
